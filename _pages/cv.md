@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [cnh43@cornell.edu](mailto:cnh43@cornell.edu) | | | **Phone:** +908 337 7754
+**Email:** [cnh43@cornell.edu](mailto:cnh43@cornell.edu) | | | **Phone:** (908)-337-7754
 
 ---
 
@@ -36,7 +36,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Projects
-- **Pedal Bay for Cornell FSAE Racing 2024-2025 Care**:  
+- **Pedal Bay for Cornell FSAE Racing 2024-2025 Car**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  

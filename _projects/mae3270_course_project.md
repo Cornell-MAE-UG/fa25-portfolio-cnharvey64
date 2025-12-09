@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
+title: MAE 3270 - Custom Torque Wrench Final Project
+description: Designing a custom torque wrench that meets design factors set by class, determined with both hand calculations and ANSYS verification
+technologies: [Autodesk Fusion , Autodesk Inventor, ANSYS]
 image: /assets/images/spaceship-design.jpg
 ---
 

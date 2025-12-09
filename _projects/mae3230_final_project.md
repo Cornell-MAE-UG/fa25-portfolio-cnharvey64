@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+title: MAE 3230 - Fluid Mechanical Dissection Video
+description: Analysis of a Fluid Mechanical Device (Bike Trainer) in Video Form
+technologies: [Canva]
 image: /assets/images/radio-machine-cad.jpg
 ---
 

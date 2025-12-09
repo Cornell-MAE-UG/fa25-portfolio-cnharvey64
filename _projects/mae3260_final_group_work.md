@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
+title: MAE 3260 - Improving a Coffee Warmer with a PI/PID Closed Loop System Model
+description: Taking the coffee warming system from Prelim 1 and improving it to reach desired performance metrics
+technologies: [MATLAB]
 image: /assets/images/function-graph.png
 ---
 
